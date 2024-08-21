@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.537aef7c.css",
+    "main.js": "/static/js/main.cbde2a5b.js",
+    "static/js/453.64dc6a20.chunk.js": "/static/js/453.64dc6a20.chunk.js",
+    "static/media/shibh.png": "/static/media/shibh.0fe4264791230fba8d87.png",
+    "static/media/radio.png": "/static/media/radio.882bdfba667cb58935bd.png",
+    "static/media/tele.png": "/static/media/tele.a770b1fa54cbb175ac07.png",
+    "static/media/head.png": "/static/media/head.1a0ea2e36a56681501ee.png",
+    "static/media/roc.png": "/static/media/roc.e8c54ac2eb36fece690e.png",
+    "static/media/x.png": "/static/media/x.7f467c15a4db8fe5eb6d.png",
+    "static/media/ThaleahFat.ttf": "/static/media/ThaleahFat.71751663861dbbb0b08c.ttf",
+    "index.html": "/index.html",
+    "main.537aef7c.css.map": "/static/css/main.537aef7c.css.map",
+    "main.cbde2a5b.js.map": "/static/js/main.cbde2a5b.js.map",
+    "453.64dc6a20.chunk.js.map": "/static/js/453.64dc6a20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.537aef7c.css",
+    "static/js/main.cbde2a5b.js"
+  ]
+}
